@@ -1,2 +1,3 @@
 /logs
 /dbt_internal_pakages
+/dbt_internal_pakages/*
