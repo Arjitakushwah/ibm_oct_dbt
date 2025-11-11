@@ -1,3 +1,10 @@
 /logs
 /dbt_internal_pakages
 /dbt_internal_pakages/*
+dbt_internal_packages/
+
+target/
+/target
+/targets/*
+dbt_packages/
+
